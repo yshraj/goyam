@@ -1,0 +1,332 @@
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/Lato-Regular.eot");
+  src: url("fonts/Lato-Regular.woff") format("woff"), url("fonts/Lato-Regular.otf") format("opentype"), url("fonts/Lato-Regular.svg#filename") format("svg");
+}
+
+@font-face {
+  font-family: "Lato-Light";
+  src: url("fonts/Lato-Light.eot");
+  src: url("fonts/Lato-Lightd41d.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Light.woff") format("woff"), url("fonts/Lato-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lato-Bold";
+  src: url("fonts/Lato-Bold.eot");
+  src: url("fonts/Lato-Boldd41d.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Bold.woff") format("woff"), url("fonts/Lato-Bold.ttf") format("truetype");
+}
+
+@media screen and (max-width: 767px) {
+  .logistics-map-box.map-md-box {
+    display: none;
+  }
+}
+
+.logistics-map {
+  width: 100%;
+  height: 575px;
+}
+
+@media screen and (max-width: 1199px) {
+  .logistics-map {
+    height: 450px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .logistics-map {
+    height: 300px;
+  }
+}
+
+.logistics-map .gm-style div,
+.logistics-map .gm-style a {
+  font-family: "Lato", "Microsoft JhengHei", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.35em;
+}
+
+.logistics-map .gm-style a {
+  color: #ed6d00;
+}
+
+.logistics-map .gm-style div {
+  color: #4c4948;
+}
+
+.logistics-map .gm-style .view-link {
+  margin-top: 0.5em;
+}
+
+.logistics-map .gm-style .title {
+  font-family: "Lato-Bold", "Microsoft JhengHei", Arial, sans-serif;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+  font-size: 17px;
+}
+
+.logistics-map .gm-style .address {
+  margin-bottom: 0.5em;
+}
+
+.logistics-map .gm-style .gm-ui-hover-effect {
+  background: url("../img/icon-close.svg") center center no-repeat !important;
+  background-size: 12px !important;
+  right: 4px !important;
+  top: 0px !important;
+  opacity: 1;
+}
+
+.logistics-map .gm-style .gm-ui-hover-effect:hover {
+  opacity: 0.75;
+}
+
+.logistics-map .gm-style .gm-ui-hover-effect img {
+  visibility: hidden;
+}
+
+.logistics-map .gm-style .gmnoprint,
+.logistics-map .gm-style .gm-style-cc {
+  font-size: 10px;
+}
+
+.logistics-map .gm-style .gmnoprint a,
+.logistics-map .gm-style .gm-style-cc a {
+  font-size: 10px;
+}
+
+.logistics-map .infowindow {
+  padding-right: 15px;
+}
+
+.logistics-map .infowindow .info-title {
+  font-size: 1rem;
+  line-height: 1.35;
+  margin-bottom: 0.5em;
+  font-family: "Lato-Bold", "Microsoft JhengHei", Arial, sans-serif;
+  font-weight: 700;
+}
+
+.logistics-map .infowindow .info-text {
+  font-size: 16px;
+  line-height: 1.35;
+  margin-top: 0.5em;
+  margin-bottom: 0.25em;
+}
+
+.centre-grids-container .centre-pin {
+  margin-bottom: 35px;
+}
+
+@media screen and (min-width: 1921px) {
+  .centre-grids-container .centre-pin {
+    max-width: 400px;
+  }
+}
+
+.centre-grids-container .centre-pin a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.centre-grids-container .pin-image,
+.centre-grids-container .pin-title {
+  font-size: 22px;
+  margin-bottom: 0.25em;
+}
+
+@media screen and (max-width: 575px) {
+  .centre-grids-container .pin-image,
+  .centre-grids-container .pin-title {
+    font-size: 16px;
+  }
+}
+
+.centre-grids-container .pin-image {
+  position: relative;
+  overflow: hidden;
+}
+
+.centre-grids-container .pin-image img {
+  display: block;
+  -webkit-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+.centre-grids-container .pin-index {
+  position: absolute;
+  display: block;
+  background: #ed6d00;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  color: #ffffff;
+  left: 2px;
+  top: 2px;
+  line-height: 26px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.centre-grids-container .pin-info {
+  font-size: 18px;
+}
+
+@media screen and (max-width: 575px) {
+  .centre-grids-container .pin-info {
+    font-size: 14px;
+  }
+}
+
+.centre-rows-container {
+  margin-bottom: 25px;
+}
+
+.centre-rows-container:last-child {
+  margin-bottom: 50px;
+}
+
+.centre-rows-container .centre-pin {
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width: 767px) {
+  .centre-rows-container .centre-pin {
+    margin-bottom: 0;
+    margin-top: 35px;
+  }
+}
+
+.centre-rows-container .centre-pin:first-child {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .centre-rows-container .centre-pin:first-child {
+    margin-top: 20px;
+  }
+}
+
+.centre-rows-container .country-row {
+  padding: 55px 40px 30px 75px;
+  margin-right: 10%;
+}
+
+@media screen and (max-width: 1500px) {
+  .centre-rows-container .country-row {
+    margin-right: 3%;
+  }
+}
+
+@media screen and (max-width: 1399px) {
+  .centre-rows-container .country-row {
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  .centre-rows-container .country-row {
+    padding: 40px 30px 30px 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .centre-rows-container .country-row {
+    padding: 25px 20px;
+  }
+}
+
+.centre-rows-container .col-region {
+  padding-left: 40px;
+}
+
+@media screen and (max-width: 767px) {
+  .centre-rows-container .col-region {
+    padding-left: 15px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .centre-rows-container .col-address {
+    padding-bottom: 20px;
+  }
+}
+
+.centre-rows-container .country-label,
+.centre-rows-container .pin-title {
+  font-family: "Lato-Bold", "Microsoft JhengHei", Arial, sans-serif;
+  font-weight: 700;
+}
+
+.centre-rows-container .country-label {
+  letter-spacing: 0.2px;
+}
+
+.centre-rows-container .pin-title {
+  margin-bottom: 15px;
+  position: relative;
+}
+
+@media screen and (max-width: 767px) {
+  .centre-rows-container .pin-title {
+    padding-left: 40px;
+  }
+}
+
+.centre-rows-container .pin-title a {
+  cursor: pointer;
+}
+
+.centre-rows-container .pin-title .pin-index {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: #ed6d00;
+  border-radius: 50%;
+  left: -40px;
+  top: -2px;
+  color: #ffffff;
+  text-align: center;
+  line-height: 30px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 767px) {
+  .centre-rows-container .pin-title .pin-index {
+    left: 0;
+  }
+}
+
+.centre-rows-container .pin-address,
+.centre-rows-container .pin-info {
+  font-size: 18px;
+}
+
+@media screen and (max-width: 767px) {
+  .centre-rows-container .pin-address {
+    padding-left: 40px;
+  }
+}
+
+.centre-rows-container .pin-address p:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .centre-rows-container .pin-info {
+    padding-left: 5px;
+  }
+}
+
+.centre-rows-container .country-collapse-row .country-label {
+  color: #ed6d00;
+  text-transform: none;
+}
+
+.centre-rows-container .country-collapse-row .col-region {
+  padding-left: 0;
+}
+/*# sourceMappingURL=map-logistics.css.map */

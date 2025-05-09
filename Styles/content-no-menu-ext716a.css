@@ -1,0 +1,135 @@
+﻿.statement-wrap table tbody {
+    vertical-align: baseline;
+}
+/*(30/05/2022) Add white-space : nowrap to the Date  */
+.statement-wrap table tr td:first-child {
+    color: #ed6d01;
+    padding-right: 50px;
+    font-weight: 700;
+    font-family: "Lato-Bold", "Heiti TC", 微軟正黑體, "Microsoft JhengHei", "Arial Unicode MS", Arial;
+    white-space: nowrap;
+}
+@media screen and (max-width: 767px) {
+    .statement-wrap table tr td:first-child {
+        padding-right: 12px;
+    }
+}
+
+.statement-wrap table tr td:last-child {
+    color: #ffffff;
+}
+
+@media screen and (max-width: 767px) {
+    .statement-wrap table tr td:last-child {
+        color: #4c4948;
+    }
+}
+
+
+.statement-wrap table tr td {
+    /*color: #ed6d01;*/
+    font-size: 1em;
+    line-height: 123.5%;
+    padding-bottom: 18px;
+}
+
+.statement-wrap table tr.smaller td {
+    font-size: 1em;
+    font-weight: 700;
+    font-family: "Lato-Bold", "Heiti TC", 微軟正黑體, "Microsoft JhengHei", "Arial Unicode MS", Arial;
+}
+
+.statement-wrap table tr td p {
+    margin-bottom: 0;
+}
+
+/* (30/05/2022) Set default PDF button of statement to color oranage */
+/* (21/04/2022) Add space between "Statement" name and "PDF" icon*/
+.pannel-content .statement-wrap table tr td button {
+    background: url('../assets/img/icon-pdf-white.svg') no-repeat;
+    margin-left: 50px;
+    background-size: 25px 33px;
+    width: 25px;
+    height: 33px;
+    border: none;
+    transform: translateY(8px);
+    /*filter: invert(60%) sepia(100%) saturate(1794%) hue-rotate(8deg) brightness(100%) contrast(99%);*/
+}
+
+/* (21/04/2022) Add space between "Statement" name and "PDF" icon*/
+/* (30/05/2022) change margin-left of PDF icon to "120%" */
+/* (30/05/2022) change filter to color orange*/
+@media screen and (max-width: 767px) {
+    .pannel-content .statement-wrap table tr td button {
+        background: url('../assets/img/icon-pdf.svg') no-repeat;
+        /*filter: invert(63%) sepia(1%) saturate(859%) hue-rotate(329deg) brightness(99%) contrast(87%);*/
+        margin-left: 12px;
+    }
+}
+
+
+
+/* (21/04/2022) Add space between "Statement" name and "PDF" icon*/
+/*.statement-wrap table tr td button:hover{
+	filter: invert(60%) sepia(100%) saturate(1794%) hue-rotate(8deg) brightness(100%) contrast(99%);
+	
+}*/
+
+.statement-wrap table tr td button:focus{
+	outline:none;
+}
+
+.statement-wrap table tr td button:focus-visible{
+	outline:none;
+}
+
+
+/* (30/05/2022) Change pannel-content-box to padding 50px to 62px*/
+.inner-page .right-panel.theme-bgoverlay .pannel-content .pannel-content-box.statement{
+    position: relative;
+    padding: 62px 65px 200px 65px;
+    z-index: 1;
+    height: 100%;
+}
+
+/* (30/05/2022) Change pannel-content-box to padding 65px to 31px*/
+@media screen and (max-width: 767px) {
+    .inner-page .right-panel.theme-bgoverlay .pannel-content .pannel-content-box.statement {
+        padding: 62px 65px 200px 31px;
+        word-break: normal;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .inner-page .right-panel.theme-bgoverlay .pannel-content .pannel-content-box.statement a {
+        word-break: normal;
+    }
+}
+
+.inner-page .right-panel.theme-bgoverlay .pannel-content .statement-wrap table tr td a {
+    color: #ed6d01;
+}
+
+.statement-wrap .statement-item {
+    margin-bottom: 12px;
+}
+.statement-wrap .statement-item .item-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ed6d01;
+    font-weight: 700;
+    font-family: "Lato-Bold", "Heiti TC", 微軟正黑體, "Microsoft JhengHei", "Arial Unicode MS", Arial;
+    margin-bottom: 8px;
+    line-height: normal;
+}
+.statement-wrap .statement-item .item-title {
+    /*font-weight: 700;
+    font-family: "Lato-Bold", "Heiti TC", 微軟正黑體, "Microsoft JhengHei", "Arial Unicode MS", Arial;*/
+    margin-bottom: 4px;
+}
+@media screen and (max-width: 767px) {
+    .inner-page .right-panel.theme-bgoverlay .pannel-content .pannel-content-box a {
+        color: #ed6d01;
+    }
+}

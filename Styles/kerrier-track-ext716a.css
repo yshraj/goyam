@@ -1,0 +1,164 @@
+﻿.left-panel .tracking-form .form-group .form-control {
+    resize: none;
+    height: 16em;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+}
+
+.collapse-wrapper .tracking.card-content-box {
+    width: 100%;
+    max-width: none;
+}
+
+
+
+.collapse-wrapper .tracking.collapse-title-row a {
+    max-width: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-bottom: none;
+    background: url("../assets/img/arrow-grey-down.svg") calc(100% - 50px) no-repeat;
+}
+
+    .collapse-wrapper .tracking.collapse-title-row a:after {
+        content: "";
+        border-bottom: 1px solid #cdcdcb;
+        display: block;
+    }
+
+@media screen and (max-width: 1199px) {
+    .collapse-wrapper .tracking.collapse-title-row a {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .collapse-wrapper .tracking.collapse-title-row a {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+
+
+.inner-pannel .tracking-status p {
+    max-width: none;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+
+.orange-dot-dividor {
+    margin-bottom: 55px;
+}
+
+.orange-dot-dividor.topbar {
+    margin-bottom: 20px;
+}
+
+.tracking.card-content-box .orange-dot-dividor {
+    width: 100%;
+    height: 1px;
+    background: rgba(76, 73, 72, 0.5);
+    margin-bottom: 0px;
+    position: relative;
+}
+
+
+
+.collapse-wrapper .collapse-title-row a[aria-expanded="true"]:hover {
+    color: #4c4948;
+}
+
+
+
+.shipment-table-box.shipment-info .table-cell-box {
+    padding-bottom: 40px;
+}
+
+.tracking-status .section-title {
+    font-weight: 300;
+    padding-left: 45px;
+    padding-right: 10px;
+}
+
+@media screen and (max-width: 1199px) {
+    .tracking-status .section-title {
+        padding-left: 25px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .tracking-status .section-title {
+        padding-left: 15px;
+    }
+}
+
+
+
+.collapse-wrapper .collapse-title-row a[aria-expanded="true"] {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.pannel-content .orange-dot-dividor {
+    margin-bottom: 20px;
+}
+
+
+.left-panel .tracking-form .form-group .form-control {
+    height: auto;
+    resize: vertical;
+}
+
+.shipment-table-box.shipment-status .table-cell-box {
+    margin-bottom: 40px;
+}
+
+.underbar.tracking-status .section-title {
+    padding-top: 32px;
+}
+
+.underbar.pannel-content-inner .section-title {
+    padding-top: 32px;
+}
+
+.inner-page .right-panel .pannel-content.pannel-section .pannel-content-box {
+    padding-top: 0px;
+}
+
+.col-3.table-cell.title-cell {
+    font-family: "Lato-Bold", "Microsoft JhengHei", Arial, sans-serif;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+.shipment-table-box.shipment-status .table-cell-box .table-cell-item .row.table-row .table-title-box .table-title-item {
+    border-bottom: none;
+    padding: 0px 0px;
+    padding-left: 10px;
+}
+
+@media screen and (max-width:991px) {
+    .shipment-table-box.shipment-select.ke-list .table-cell:last-child, .shipment-table-box.shipment-status.ke-list .table-cell:last-child {
+        border-top: none;
+        padding-top:0px;
+    }
+    .shipment-table-box.shipment-select.ke-list .table-cell:last-child, .shipment-table-box.shipment-status.ke-list .table-cell:first-child {
+        display:none;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .shipment-table-box.shipment-select .table-cell .text, .shipment-table-box.shipment-status .table-cell .text {
+        width: 60%;
+        padding-left: 0px;
+    }
+}

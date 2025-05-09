@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/Lato-Regular.eot");
+  src: url("fonts/Lato-Regular.woff") format("woff"), url("fonts/Lato-Regular.otf") format("opentype"), url("fonts/Lato-Regular.svg#filename") format("svg");
+}
+
+@font-face {
+  font-family: "Lato-Light";
+  src: url("fonts/Lato-Light.eot");
+  src: url("fonts/Lato-Lightd41d.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Light.woff") format("woff"), url("fonts/Lato-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lato-Bold";
+  src: url("fonts/Lato-Bold.eot");
+  src: url("fonts/Lato-Boldd41d.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Bold.woff") format("woff"), url("fonts/Lato-Bold.ttf") format("truetype");
+}
+
+@media screen and (max-width: 991px) {
+  .contact-form.theme-simple-line textarea.form-control {
+    border-color: #9f9f9f;
+  }
+}
+
+.contact-form .form-control,
+.contact-form .custom-select {
+  border-color: #9f9f9f;
+  font-size: 18px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.contact-form .custom-select {
+  padding-top: 4px;
+  padding-bottom: 3px;
+}
+
+.contact-form .custom-select option[value=""] {
+  display: none;
+}
+
+.contact-form .custom-form-label {
+  top: 13px;
+}
+/*# sourceMappingURL=contact.css.map */

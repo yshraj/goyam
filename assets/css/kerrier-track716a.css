@@ -1,0 +1,334 @@
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/Lato-Regular.eot");
+  src: url("fonts/Lato-Regular.woff") format("woff"), url("fonts/Lato-Regular.otf") format("opentype"), url("fonts/Lato-Regular.svg#filename") format("svg");
+}
+
+@font-face {
+  font-family: "Lato-Light";
+  src: url("fonts/Lato-Light.eot");
+  src: url("fonts/Lato-Lightd41d.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Light.woff") format("woff"), url("fonts/Lato-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lato-Bold";
+  src: url("fonts/Lato-Bold.eot");
+  src: url("fonts/Lato-Boldd41d.eot?#iefix") format("embedded-opentype"), url("fonts/Lato-Bold.woff") format("woff"), url("fonts/Lato-Bold.ttf") format("truetype");
+}
+
+.inner-page .right-panel .pannel-content .pannel-content-box {
+  padding-bottom: 0;
+  margin-bottom: 40px;
+}
+
+.inner-page .right-panel .pannel-content.pannel-section .pannel-content-box {
+  padding-top: 40px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.inner-page .right-panel .pannel-content .pannel-content-inner {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+@media screen and (max-width: 1199px) {
+  .inner-page .right-panel .pannel-content .pannel-content-inner {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .inner-page .right-panel .pannel-content .pannel-content-inner {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+.shipment-table-box {
+  font-size: 18px;
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box.shipment-select .table-cell, .shipment-table-box.shipment-status .table-cell {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+    max-width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-top: 1px solid #e6e6e5;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box.shipment-select .table-cell:first-child, .shipment-table-box.shipment-status .table-cell:first-child {
+    padding-top: 0;
+    border-top: none;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box.shipment-select .table-cell:last-child, .shipment-table-box.shipment-status .table-cell:last-child {
+    padding-bottom: 0;
+  }
+}
+
+.shipment-table-box.shipment-select .table-cell .label, .shipment-table-box.shipment-status .table-cell .label {
+  width: 40%;
+  padding-right: 10px;
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box.shipment-select .table-cell .label, .shipment-table-box.shipment-status .table-cell .label {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box.shipment-select .table-cell .text, .shipment-table-box.shipment-status .table-cell .text {
+    width: 60%;
+    padding-left: 10px;
+  }
+}
+
+.shipment-table-box.shipment-select .table-title-item .table-row,
+.shipment-table-box.shipment-select .table-cell-item .table-row {
+  padding-right: 40px;
+}
+
+.shipment-table-box.shipment-select .table-cell-item:nth-child(2n) {
+  background: #f8f8f8;
+}
+
+.shipment-table-box.shipment-select .table-cell-item:nth-child(2n + 1) {
+  background: transparent;
+}
+
+.shipment-table-box.shipment-select .btn-collapse {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: url(../img/arrow-mobile-menu-right.svg) calc(100% - 15px) center no-repeat;
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box.shipment-select .btn-collapse {
+    background-position: calc(100% - 10px) center;
+  }
+}
+
+.shipment-table-box.shipment-select .btn-collapse[aria-expanded="true"] {
+  background-image: url(../img/arrow-mobile-menu-down.svg);
+  font-family: "Lato-Bold", "Microsoft JhengHei", Arial, sans-serif;
+  font-weight: 700;
+}
+
+.shipment-table-box.shipment-select .btn-collapse[aria-expanded="true"] .text {
+  color: #ed6d00;
+}
+
+.shipment-table-box.shipment-select .btn-collapse .label {
+  color: #4c4948;
+}
+
+.shipment-table-box.shipment-info {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box.shipment-info {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.shipment-table-box.shipment-status .table-cell-item:nth-child(2n + 1) {
+  background: #f8f8f8;
+}
+
+.shipment-table-box.shipment-status .table-cell-item:nth-child(2n) {
+  background: transparent;
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box .table-column {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
+  }
+}
+
+.shipment-table-box .table-column:nth-child(2n + 1) {
+  margin-left: -15px;
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box .table-column:nth-child(2n + 1) {
+    margin-left: 0;
+  }
+}
+
+.shipment-table-box .table-column:nth-child(2n + 1) .table-cell-item {
+  padding-right: 20px;
+}
+
+@media screen and (max-width: 1199px) {
+  .shipment-table-box .table-column:nth-child(2n + 1) .table-cell-item {
+    padding-right: 15px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box .table-column:nth-child(2n + 1) .table-cell-item {
+    padding-right: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .shipment-table-box .table-column:nth-child(2n + 1) .table-cell-item {
+    padding-right: 15px;
+  }
+}
+
+.shipment-table-box .table-column:nth-child(2n) {
+  margin-right: -15px;
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box .table-column:nth-child(2n) {
+    margin-right: 0;
+  }
+}
+
+.shipment-table-box .table-column:nth-child(2n) .table-cell-item {
+  padding-left: 20px;
+}
+
+@media screen and (max-width: 1199px) {
+  .shipment-table-box .table-column:nth-child(2n) .table-cell-item {
+    padding-left: 15px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box .table-column:nth-child(2n) .table-cell-item {
+    padding-left: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .shipment-table-box .table-column:nth-child(2n) .table-cell-item {
+    padding-left: 15px;
+  }
+}
+
+.shipment-table-box .table-column .table-cell:not(:first-child) {
+  text-align: right;
+}
+
+@media screen and (max-width: 767px) {
+  .shipment-table-box .table-column .table-cell:not(:first-child) {
+    width: 60%;
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .shipment-table-box .table-column .table-cell:first-child.table-title {
+    width: 40%;
+  }
+}
+
+.shipment-table-box .table-row {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box .table-title-box {
+    display: none;
+  }
+}
+
+.shipment-table-box .table-title-item,
+.shipment-table-box .table-cell-item {
+  padding: 10px 50px;
+  border-bottom: 1px solid #c9c8c8;
+}
+
+@media screen and (max-width: 1199px) {
+  .shipment-table-box .table-title-item,
+  .shipment-table-box .table-cell-item {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .shipment-table-box .table-title-item,
+  .shipment-table-box .table-cell-item {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+.shipment-table-box .table-cell-item:nth-child(2n) {
+  background: #f8f8f8;
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box .table-cell-item:nth-child(2n) {
+    background: transparent;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box .table-cell-item.odd {
+    background: transparent;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .shipment-table-box .table-cell-item.even {
+    background: #f8f8f8;
+  }
+}
+
+.shipment-table-box .table-title-item .table-title-row {
+  font-family: "Lato-Bold", "Microsoft JhengHei", Arial, sans-serif;
+  font-weight: 700;
+}
+
+.shipment-table-box .table-title-item .table-title-row .table-cell {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+}
+
+.shipment-table-box .table-title {
+  font-family: "Lato-Bold", "Microsoft JhengHei", Arial, sans-serif;
+  font-weight: 700;
+}
+
+.shipment-table-box .table-cell {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.shipment-table-box .table-cell:not(.table-title) {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.shipment-table-box .table-cell .label {
+  display: none;
+  font-family: "Lato-Bold", "Microsoft JhengHei", Arial, sans-serif;
+  font-weight: 700;
+}
+/*# sourceMappingURL=kerrier-track.css.map */
