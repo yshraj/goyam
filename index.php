@@ -88,7 +88,7 @@
         <div class="wrapper">
             <div class="loading-overlay">
               <!--  <div class="loading-logo"><img src="assets/img/logo.svg" alt="logo" /></div>  -->  
-              <h1>Goyam Logistics<p style="font-size:15px;text-align:center;">We go extra mile,so you don't have to.</p></h1>
+              <h1>Goyam Logistics<p style="font-size:15px;text-align:center;">We go extra miles,so you don't have to.</p></h1>
              
             </div>
             

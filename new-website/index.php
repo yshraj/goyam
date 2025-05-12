@@ -195,7 +195,7 @@
                             <div class="col-lg-7 animated fadeInLeft">
                                 <div class="text-sm-center text-md-start">
                                     <h4 class="text-white text-uppercase fw-bold mb-3">Reliable Logistics Solutions</h4>
-                                    <h1 class="display-3 text-white mb-4">We go extra mile,so you don't have to.</h1>
+                                    <h1 class="display-3 text-white mb-4">We go extra miles,<br>so you don't have to.</h1>
                                     <p class="mb-5 fs-5">We specialize in providing seamless, end-to-end logistics services designed to keep your business moving. Whether it's road, air, or sea freight, our expertise ensures your cargo arrives safely, on time, every time. 
                                     </p>
                                     <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
@@ -218,7 +218,6 @@
                 <div class="row g-5">
                     <div class="col-lg-7 wow fadeInLeft" data-wow-delay="0.2s">
                         <div class="h-100">
-                            <h4 class="text-primary">About Us</h4>
                             <h1 class="display-4 mb-4">WHY GOYAM ?</h1>
                             <div class="row g-4 mb-4">
                                 <div class="col-md-6">
@@ -253,7 +252,7 @@
                                 <p class="fs-5"><span class="fa fa-check text-primary me-2"></span>Timely delivery</p>
                                
                             </div>
-                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="#">Contact us</a>
+                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="contact.php">Contact us</a>
                         </div>
                     </div>
                     <div class="col-lg-5 wow fadeInRight" data-wow-delay="0.2s">
@@ -292,7 +291,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="d-flex align-items-center justify-content-lg-end h-100">
-                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="#">CALL NOW</a>
+                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="https://api.whatsapp.com/send?phone=918849787195">CALL NOW</a>
                         </div>
                     </div>
                 </div>
@@ -700,12 +699,12 @@
                                 </li>
                                 <li class="nav-item bg-white mb-4 w-100">
                                     <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-3">
-                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-ship small"></span></div><span>Most Competitive Rates for Customized Solution</span>
+                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-train small"></span></div><span>Most Competitive Rates for Customized Solution</span>
                                     </a>
                                 </li>
                                 <li class="nav-item bg-white mb-4 w-100">
                                     <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-4">
-                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-warehouse small"></span></div><span>Cost Savings
+                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-plane small"></span></div><span>Cost Savings
 </span>
                                     </a>
                                 </li>
@@ -799,7 +798,7 @@ At Goyam Logistics, we don’t just move goods—we move possibilities. Partner 
                                 <img src="img/International_Freight_.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
-                                <a href="#" class="h4 mb-0 p-4">International Freight</a>
+                                <a class="h4 mb-0 p-4">International Freight</a>
                             </div>
                            
                         </div>
@@ -810,7 +809,7 @@ At Goyam Logistics, we don’t just move goods—we move possibilities. Partner 
                                 <img src="img/custom clearance.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
-                                <a href="#" class="h4 mb-0 p-4">Custom Clearance </a>
+                                <a class="h4 mb-0 p-4">Custom Clearance </a>
                             </div>
                            
                         </div>
@@ -821,7 +820,7 @@ At Goyam Logistics, we don’t just move goods—we move possibilities. Partner 
                                 <img src="img/DGFT CONSULTTANCY.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
-                                <a href="#" class="h4 mb-0 p-4">DGFT Consultancy</a>
+                                <a class="h4 mb-0 p-4">DGFT Consultancy</a>
                             </div>
                           
                         </div>
@@ -833,7 +832,7 @@ At Goyam Logistics, we don’t just move goods—we move possibilities. Partner 
                                 <img src="img/CARGO HANDLING.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
-                                <a href="#" class="h4 mb-0 p-4">Cargo Handling</a>
+                                <a class="h4 mb-0 p-4">Cargo Handling</a>
                             </div>
                           
                         </div>
