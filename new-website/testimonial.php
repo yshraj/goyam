@@ -43,7 +43,7 @@
         <div class="container-fluid header-top">
             <div class="container d-flex align-items-center">
                 <div class="d-flex align-items-center h-100">
-                    <a href="#" class="navbar-brand" style="height: 125px;">
+                    <a href="./index.php" class="navbar-brand" style="height: 125px;">
                         <img src="img/GOYAM-LOG0-CROP.png" alt="Logo">
                     </a>
                 </div>
