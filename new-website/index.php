@@ -233,7 +233,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <p class="mb-4">Goyam specializes in the transportation, warehousing, and distribution of goods. It plays a crucial role in supply chain management, ensuring that products move efficiently from manufacturers to consumers or businesses.
+                            <p style="font-size: large;" class="mb-4">Goyam specializes in the transportation, warehousing, and distribution of goods. It plays a crucial role in supply chain management, ensuring that products move efficiently from manufacturers to consumers or businesses.
                             </p>
                            <!-- <p>Freight Transportation</p>
                              <p>Warehousing & Storage</p>
@@ -425,7 +425,7 @@
                                         <img src="img/allied.png" class="img-fluid w-100" alt="">
                                         <div class="border border-top-0 p-4">
                                             <h4 class="mb-3">Allied Services</h4>
-                                            <p class="mb-4">Fumigation & Palatalization in Logistics..
+                                            <p class="mb-4">At Goyam Logistics, we offer a range of Allied Services designed to complement and enhance our core logistics offerings. 
                                             </p>
                                             <a class="btn btn-primary py-2 px-4" href="allied-services.php">Read More</a>
                                         </div>
@@ -685,6 +685,8 @@
                         <div>
                            <!-- <h4 class="text-primary">Our Projects</h4>-->
                             <h1 class="display-4 mb-4">Why Choose Us</h1>
+                            <p  style="font-size: large;" class="mb-5">Our eco-friendly practices reduce environmental impact, helping you meet your sustainability goals.</p>
+
                            <!-- <p class="mb-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum fugiat quae nihil obcaecati,</p>-->
                             <ul class="nav">
                                 <li class="nav-item bg-white mb-4 w-100">
@@ -723,9 +725,6 @@
                                     </a>
                                 </li>-->
                             </ul>
-                             <p class="mb-5">Our eco-friendly practices reduce environmental impact, helping you meet your sustainability goals.
-
-At Goyam Logistics, we don’t just move goods—we move possibilities. Partner with us for dependable, efficient, and innovative logistics solutions.</p>
                         </div>
                     </div>
                     <div class="col-lg-7 wow fadeInRight" data-wow-delay="0.2s">
