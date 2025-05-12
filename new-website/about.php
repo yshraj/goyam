@@ -180,7 +180,7 @@
                     <div class="col-lg-7 wow fadeInLeft" data-wow-delay="0.2s">
                         <div class="h-100">
                             <h4 class="text-primary">About Us</h4>
-                            <h1 class="display-4 mb-4">YOUR ONE STOP SOLUTIONS</h1>
+                            <h3 class="display-6 mb-4">Solutions That Move the World</h3>
                             <div class="row g-4 mb-4">
                                 <div class="col-md-6">
                                     <a href="#" class="d-flex">
@@ -198,12 +198,12 @@
                            <!-- <p class="mb-4">Welcome to GOYAM LOGISTICS, your premier choice for comprehensive shipping and freight forwarding solutions. As an India-based agency with a global reach, we pride ourselves on delivering unparalleled services in Air Freight, Sea Freight, Custom Clearance, Transportation, Import-Export Consultancy, and Project Cargo. At GOYAM LOGISTICS, we strive to set the benchmark for excellence in the international logistics industry.
                             </p>-->
                             <div class="text-dark mb-4">
-                                <p class="fs-5" style="text-align: justify;"><span class="fa fa-check text-primary me-2"></span>Welcome to GOYAM LOGISTICS, your premier choice for comprehensive shipping and freight forwarding solutions. As an India-based agency with a global reach, we pride ourselves on delivering unparalleled services in Air Freight, Sea Freight, Custom Clearance, Transportation, Import-Export Consultancy, and Project Cargo. At GOYAM LOGISTICS, we strive to set the benchmark for excellence in the international logistics industry.</p>
-                                <p class="fs-5" style="text-align: justify;"><span class="fa fa-check text-primary me-2"></span> GOYAM LOGISTICS manage and execute the shipping and storage of commodities between the product's origin and the final delivery destination.</p>
-                                <p class="fs-5" style="text-align: justify;"><span class="fa fa-check text-primary me-2"></span>Our company is teamed up with all kind of well trained and experienced staff having thorough know-how of each commodity / subject and commitments to provide the perfect solutions to meet customer satisfaction thereby building up long term business relationship with Customers as well as from Business associates.</p>
-                                 <p class="fs-5" style="text-align: justify;"><span class="fa fa-check text-primary me-2"></span>We clears import and export shipments as per laws of Indian Customs. We are responsible for ensuring that all imported and exported goods comply with all statutory regulations. GOYAM LOGISTICS will always follow the customs rules diligently.</p>
+                                <p class="fs-6 mb-4" style="font-size: large; text-align: justify;"><span class="fa fa-check text-primary me-2"></span>Welcome to GOYAM LOGISTICS, your premier choice for comprehensive shipping and freight forwarding solutions. As an India-based agency with a global reach, we pride ourselves on delivering unparalleled services in Air Freight, Sea Freight, Custom Clearance, Transportation, Import-Export Consultancy, and Project Cargo. At GOYAM LOGISTICS, we strive to set the benchmark for excellence in the international logistics industry.</p>
+                                <p class="fs-6 mb-4" style="font-size: large; text-align: justify;"><span class="fa fa-check text-primary me-2"></span> GOYAM LOGISTICS manage and execute the shipping and storage of commodities between the product's origin and the final delivery destination.</p>
+                                <p class="fs-6 mb-4" style="font-size: large; text-align: justify;"><span class="fa fa-check text-primary me-2"></span>Our company is teamed up with all kind of well trained and experienced staff having thorough know-how of each commodity / subject and commitments to provide the perfect solutions to meet customer satisfaction thereby building up long term business relationship with Customers as well as from Business associates.</p>
+                                 <p class="fs-6 mb-4" style="font-size: large; text-align: justify;"><span class="fa fa-check text-primary me-2"></span>We clears import and export shipments as per laws of Indian Customs. We are responsible for ensuring that all imported and exported goods comply with all statutory regulations. GOYAM LOGISTICS will always follow the customs rules diligently.</p>
                             </div>
-                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="#">Contact us</a>
+                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="contact.php">Contact us</a>
                         </div>
                     </div>
                     <div class="col-lg-5 wow fadeInRight" data-wow-delay="0.2s">
@@ -258,7 +258,7 @@
                         <div>
                             <h4 class="text-primary">Our Vison & Mission</h4>
                             <h1 class="display-4 mb-4">Delivering Possibilities, On Time, Every Time.</h1>
-                            <p class="mb-5">Logistics Made Simple, Deliveries Made Sure.</p>
+                            <p style="font-size: large;" class="mb-5">Logistics Made Simple, Deliveries Made Sure.</p>
                             <ul class="nav">
                                 <li class="nav-item bg-white mb-4 w-100">
                                     <a class="d-flex align-items-center h4 mb-0 p-3 active" data-bs-toggle="pill" href="#ProjectsTab-1">
