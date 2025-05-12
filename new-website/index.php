@@ -47,8 +47,7 @@
             <div class="container d-flex align-items-center">
                 <div class="d-flex align-items-center h-100">
                     <a href="#" class="navbar-brand" style="height: 125px;">
-                        <h1 class="text-primary mb-0"><i class="fas fa-bolt"></i> Electra</h1>
-                        <!-- <img src="img/logo.png" alt="Logo"> -->
+                        <img src="img/GOYAM-LOG0-CROP.png" alt="Logo">
                     </a>
                 </div>
                 <div class="w-100 h-100">
@@ -57,7 +56,7 @@
                             <div class="col-lg-8 text-center text-lg-center mb-lg-0">
                                 <div class="d-flex flex-wrap">
                                     <div class="border-end border-primary pe-3">
-                                        <a href="#" class="text-muted small"><i class="fas fa-map-marker-alt text-primary me-2"></i>Find A Location</a>
+                                        <a href="https://g.co/kgs/MX7HNvM" class="text-muted small"><i class="fas fa-map-marker-alt text-primary me-2"></i>Find A Location</a>
                                     </div>
                                     <div class="ps-3">
                                         <a href="mailto:rishabh@goyam.net.in" class="text-muted small"><i class="fas fa-envelope text-primary me-2"></i>rishabh@goyam.net.in</a>
@@ -90,8 +89,7 @@
                     <div class="nav-bar px-0 py-lg-0" style="height: 80px;">
                         <nav class="navbar navbar-expand-lg navbar-light d-flex justify-content-lg-end">
                             <a href="#" class="navbar-brand-2">
-                                <h1 class="text-primary mb-0"><i class="fas fa-bolt"></i> Electra</h1>
-                                <!-- <img src="img/logo.png" alt="Logo"> -->
+                                <img src="img/GOYAM-GJ.png" alt="Logo" style="height: 80px; width: auto; display: block;">                            
                             </a>  
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                                 <span class="fa fa-bars"></span>
@@ -174,9 +172,9 @@
                         <div class="row g-4 align-items-center">
                             <div class="col-lg-7 animated fadeInLeft">
                                 <div class="text-sm-center text-md-start">
-                                    <h4 class="text-white text-uppercase fw-bold mb-4">Current Electricity Services</h4>
-                                    <h1 class="display-2 text-white mb-4">Power for Seamless Electricity Solutions</h1>
-                                    <p class="mb-5 fs-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy... 
+                                    <h4 class="text-white text-uppercase fw-bold mb-3">Your Trusted Logistics Partner</h4>
+                                    <h1 class="display-3 text-white mb-4">Experience the Speed of Precision Logistics</h1>
+                                    <p class="mb-5 fs-5">From warehousing to last-mile delivery, we bring unmatched professionalism and reliability to your supply chain. Let us handle the complexity while you focus on growing your business. 
                                     </p>
                                     <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
                                         <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="services.php">Our Services</a>
@@ -196,9 +194,9 @@
                         <div class="row g-4 align-items-center">
                             <div class="col-lg-7 animated fadeInLeft">
                                 <div class="text-sm-center text-md-start">
-                                    <h4 class="text-white text-uppercase fw-bold mb-4">Current Electricity Services</h4>
-                                    <h1 class="display-2 text-white mb-4">Experience the power of professionalism</h1>
-                                    <p class="mb-5 fs-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy... 
+                                    <h4 class="text-white text-uppercase fw-bold mb-3">Reliable Logistics Solutions</h4>
+                                    <h1 class="display-3 text-white mb-4">We go extra mile,so you don't have to.</h1>
+                                    <p class="mb-5 fs-5">We specialize in providing seamless, end-to-end logistics services designed to keep your business moving. Whether it's road, air, or sea freight, our expertise ensures your cargo arrives safely, on time, every time. 
                                     </p>
                                     <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
                                         <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="services.php">Our Services</a>
@@ -798,7 +796,7 @@ At Goyam Logistics, we don’t just move goods—we move possibilities. Partner 
                     <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <img src="img/International-Freight.png" class="img-fluid w-100" alt="">
+                                <img src="img/International_Freight_.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
                                 <a href="#" class="h4 mb-0 p-4">International Freight</a>
@@ -809,7 +807,7 @@ At Goyam Logistics, we don’t just move goods—we move possibilities. Partner 
                     <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <img src="img/Custom-Clearance.png" class="img-fluid w-100" alt="">
+                                <img src="img/custom clearance.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
                                 <a href="#" class="h4 mb-0 p-4">Custom Clearance </a>
@@ -820,7 +818,7 @@ At Goyam Logistics, we don’t just move goods—we move possibilities. Partner 
                     <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <img src="img/dift.png" class="img-fluid w-100" alt="">
+                                <img src="img/DGFT CONSULTTANCY.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
                                 <a href="#" class="h4 mb-0 p-4">DGFT Consultancy</a>
@@ -832,7 +830,7 @@ At Goyam Logistics, we don’t just move goods—we move possibilities. Partner 
                     <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <img src="img/Cargo-Handling.png" class="img-fluid w-100" alt="">
+                                <img src="img/CARGO HANDLING.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
                                 <a href="#" class="h4 mb-0 p-4">Cargo Handling</a>

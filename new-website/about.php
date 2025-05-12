@@ -45,8 +45,7 @@
             <div class="container d-flex align-items-center">
                 <div class="d-flex align-items-center h-100">
                     <a href="#" class="navbar-brand" style="height: 125px;">
-                        <h1 class="text-primary mb-0"><i class="fas fa-bolt"></i> Electra</h1>
-                        <!-- <img src="img/logo.png" alt="Logo"> -->
+                        <img src="img/GOYAM-LOG0-CROP.png" alt="Logo">
                     </a>
                 </div>
                 <div class="w-100 h-100">
@@ -87,8 +86,7 @@
                     <div class="nav-bar px-0 py-lg-0" style="height: 80px;">
                         <nav class="navbar navbar-expand-lg navbar-light d-flex justify-content-lg-end">
                             <a href="#" class="navbar-brand-2">
-                                <h1 class="text-primary mb-0"><i class="fas fa-bolt"></i> Electra</h1>
-                                <!-- <img src="img/logo.png" alt="Logo"> -->
+                                <img src="img/GOYAM-GJ.png" alt="Logo" style="height: 80px; width: auto; display: block;">                            
                             </a>  
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                                 <span class="fa fa-bars"></span>
@@ -289,7 +287,7 @@
                         <div class="tab-content">
                             <div id="ProjectsTab-1" class="tab-pane fade show p-0 active">
                                 <div class="projects-item">
-                                    <img src="img/our-mission.png" class="img-fluid w-100" alt="">
+                                    <img src="img/our mission.jpg" class="img-fluid w-100" alt="">
                                     <div class="projects-content bg-white p-4">
                                         <h4 class="mb-3">Our Mission</h4>
                                         <p class="mb-4">Our mission is to deliver exceptional logistics and customs clearance services through unparalleled expertise, cutting-edge technology, and a customer-centric approach. We are committed to ensuring seamless, efficient, and compliant movement of goods across borders, fostering long-term partnerships and contributing to the success of our clients.
@@ -300,7 +298,7 @@
                             </div>
                             <div id="ProjectsTab-2" class="tab-pane fade show p-0">
                                 <div class="projects-item">
-                                    <img src="img/our-vision.png" class="img-fluid w-100" alt="">
+                                    <img src="img/our vision.jpg" class="img-fluid w-100" alt="">
                                     <div class="projects-content bg-white p-4">
                                         <h4 class="mb-3">Our Vision</h4>
                                         <p class="mb-4">To be the leading provider of innovative and reliable logistics and custom clearance solutions, empowering businesses to thrive in the global market.
@@ -311,7 +309,7 @@
                             </div>
                             <div id="ProjectsTab-3" class="tab-pane fade show p-0">
                                 <div class="projects-item">
-                                    <img src="img/our-vision.png" class="img-fluid w-100" alt="">
+                                    <img src="img/our vision.jpg" class="img-fluid w-100" alt="">
                                     <div class="projects-content bg-white p-4">
                                         <h4 class="mb-3">Our Vision</h4>
                                         <p class="mb-4">To be the leading provider of innovative and reliable logistics and custom clearance solutions, empowering businesses to thrive in the global market.

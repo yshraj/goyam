@@ -45,8 +45,7 @@
             <div class="container d-flex align-items-center">
                 <div class="d-flex align-items-center h-100">
                     <a href="#" class="navbar-brand" style="height: 125px;">
-                        <h1 class="text-primary mb-0"><i class="fas fa-bolt"></i> Electra</h1>
-                        <!-- <img src="img/logo.png" alt="Logo"> -->
+                        <img src="img/GOYAM-LOG0-CROP.png" alt="Logo">
                     </a>
                 </div>
                 <div class="w-100 h-100">
@@ -87,9 +86,8 @@
                     <div class="nav-bar px-0 py-lg-0" style="height: 80px;">
                         <nav class="navbar navbar-expand-lg navbar-light d-flex justify-content-lg-end">
                             <a href="#" class="navbar-brand-2">
-                                <h1 class="text-primary mb-0"><i class="fas fa-bolt"></i> Electra</h1>
-                                <!-- <img src="img/logo.png" alt="Logo"> -->
-                            </a>  
+                                <img src="img/GOYAM-GJ.png" alt="Logo" style="height: 80px; width: auto; display: block;">                            
+                            </a>   
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                                 <span class="fa fa-bars"></span>
                             </button>

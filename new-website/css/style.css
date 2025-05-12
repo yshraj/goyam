@@ -140,6 +140,14 @@
     .navbar-brand-2 {
         display: none;
     }
+
+    .navbar-brand img {
+        height: 60px;
+        width: auto;
+        max-height: 100%;
+        object-fit: contain;
+    }
+
 }
 
 @media (max-width: 991px) {
@@ -383,7 +391,8 @@
 
 /*** Carousel Hero Header Start ***/
 .hero-section {
-    background-image: url(../img/carousel-1.jpg);
+    /* background-image: url(../img/carousel-1.jpg); */
+    background: none;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -408,10 +417,10 @@
     right: 0;
     top: 0;*/
     /*sahil*/
-     background-image: url(../img/airplane-home.jpg);
-    clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 0% 100%);
-    filter: grayscale(10%);
-    transform: scale(100% - 50%);
+     background-image: url(../img/hero-2-image-ysh.jpg);
+     clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+     filter: grayscale(10%);
+     transform: scale(1);
     background-position: center right;
     background-repeat: no-repeat;
     background-size: cover;
@@ -437,10 +446,10 @@
     top: 0;*/
     
     /*sahil*/
-    background-image: url(../img/sea-freight.jpg);
-    clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 0% 100%);
+    background-image: url(../img/hero-1-image-ysh.jpg);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
     filter: grayscale(10%);
-    transform: scale(100% - 50%);
+    transform: scale(1);
     background-position: center right;
     background-repeat: no-repeat;
     background-size: cover;
