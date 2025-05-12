@@ -383,7 +383,7 @@
 
 /*** Carousel Hero Header Start ***/
 .hero-section {
-    background-image: url(../img/carousel-1.jpg);
+    background-image: url(../img/cost-saving.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -395,7 +395,7 @@
 }
 
 .hero-bg-half-1 {
-    background-image: url(../img/header-2.jpg);
+    background-image: url(../img/allied.jpg);
     clip-path: polygon(37% 0%, 100% 0%, 100% 100%, 0% 100%);
     filter: grayscale(10%);
     transform: scale(100% - 50%);
@@ -410,7 +410,7 @@
 }
 
 .hero-bg-half-2 {
-    background-image: url(../img/header-1.jpg);
+    background-image: url(../img/allied.jpg);
     clip-path: polygon(37% 0%, 100% 0%, 100% 100%, 0% 100%);
     filter: grayscale(10%);
     transform: scale(100% - 50%);
@@ -530,7 +530,7 @@
 .bg-breadcrumb {
     position: relative;
     overflow: hidden;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/banner-img.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/hero-2-image-ysh.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -552,7 +552,7 @@
 .banner {
     position: relative;
     overflow: hidden;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/banner-img.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/hero-2-image-ysh.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

@@ -223,14 +223,14 @@
                             <div class="row g-4 mb-4">
                                 <div class="col-md-6">
                                     <a href="#" class="d-flex">
-                                        <span class="fas fa-bolt fa-3x me-3"></span>
-                                        <h4 class="mb-0">Emergency Power Solution</h4>
+                                        <span class="fas fa-cogs fa-3x me-3"></span>
+                                        <h4 class="mb-0">Reliable Supply Chain Support</h4>
                                     </a>
                                 </div>
                                 <div class="col-md-6">
                                     <a href="#" class="d-flex">
-                                        <span class="fas fa-broadcast-tower fa-3x me-3"></span>
-                                        <h4 class="mb-0">Full-Service logistics Layout</h4>
+                                        <span class="fas fa-truck-loading fa-3x me-3"></span>
+                                        <h4 class="mb-0">Comprehensive Logistics Services</h4>
                                     </a>
                                 </div>
                             </div>
@@ -690,35 +690,35 @@
                             <ul class="nav">
                                 <li class="nav-item bg-white mb-4 w-100">
                                     <a class="d-flex align-items-center h4 mb-0 p-3 active" data-bs-toggle="pill" href="#ProjectsTab-1">
-                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-bolt small"></span></div><span>Safe & Secure Delivery Services</span>
+                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-warehouse small"></span></div><span>Safe & Secure Delivery Services</span>
                                     </a>
                                 </li>
                                 <li class="nav-item bg-white mb-4 w-100">
                                     <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-2">
-                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-charging-station small"></span></div><span>Transport Optimization</span>
+                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-truck-moving small"></span></div><span>Transport Optimization</span>
                                     </a>
                                 </li>
                                 <li class="nav-item bg-white mb-4 w-100">
                                     <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-3">
-                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-broadcast-tower small"></span></div><span>Most Competitive Rates for Customized Solution</span>
+                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-ship small"></span></div><span>Most Competitive Rates for Customized Solution</span>
                                     </a>
                                 </li>
                                 <li class="nav-item bg-white mb-4 w-100">
                                     <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-4">
-                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-bolt small"></span></div><span>Cost Savings
+                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-warehouse small"></span></div><span>Cost Savings
 </span>
                                     </a>
                                 </li>
                                <!-- <li class="nav-item bg-white mb-4 w-100">
                                     <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-4">
-                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-bolt small"></span></div><span>Proven experience
+                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-warehouse small"></span></div><span>Proven experience
 
 </span>
                                     </a>
                                 </li>
                                 <li class="nav-item bg-white mb-4 w-100">
                                     <a class="d-flex align-items-center h4 mb-0 p-3" data-bs-toggle="pill" href="#ProjectsTab-4">
-                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-bolt small"></span></div><span>Expertise in Diverse Commodities for Export & Import
+                                        <div class="projects-icon btn-md-square bg-primary text-white me-3"><span class="fas fa-warehouse small"></span></div><span>Expertise in Diverse Commodities for Export & Import
 
 </span>
                                     </a>
@@ -1151,7 +1151,7 @@ At Goyam Logistics, we don’t just move goods—we move possibilities. Partner 
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <div class="footer-item">
-                                <h3 class="text-white mb-4"><i class="fas fa-bolt text-primary me-3"></i>Goyam Logistics</h3>
+                                <h3 class="text-white mb-4">Goyam Logistics</h3>
                                 <p class="mb-3" style="color:white;">Fast. Efficient. Trusted.</p>
                             </div>
                         </div>

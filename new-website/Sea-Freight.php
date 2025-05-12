@@ -541,7 +541,7 @@
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <div class="footer-item">
-                                <h3 class="text-white mb-4"><i class="fas fa-bolt text-primary me-3"></i>Goyam Logistics</h3>
+                                <h3 class="text-white mb-4">Goyam Logistics</h3>
                                 <p class="mb-3" style="color:white;">Fast. Efficient. Trusted.</p>
                             </div>
                         </div>
