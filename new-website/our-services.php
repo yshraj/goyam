@@ -270,7 +270,7 @@
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <img src="img/consultancy.png" class="img-fluid w-100" alt="">
+                                <img src="img/consultancy.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
                                 <a href="#" class="h4 mb-0 p-4">Consultancy</a>

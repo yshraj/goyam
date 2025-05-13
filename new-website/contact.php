@@ -180,11 +180,11 @@
                 <div class="row g-5">
                     <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2s">
                         <div>
-                            <h4 class="text-primary">Contact Us</h4>
+                            <h4 class="text-primary mb-4">Contact Us</h4>
                           <!--  <h1 class="display-4 mb-4">Illuminate Your Message Get in Contact</h1>-->
                            <!-- <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia hic aspernatur unde magnam necessitatibus provident iusto maxime nobis esse eligendi.
                             </p>-->
-                            <div class="d-flex border-end border-primary pe-3">
+                            <div class="d-flex border-end border-primary pe-3  mb-4">
                                         <a class="btn p-0 text-primary me-3" href="https://www.facebook.com/profile.php?id=61565034779815&mibextid=LQQJ4d" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                         <a class="btn p-0 text-primary me-3" href="https://www.instagram.com/goyam.logistics/?igsh=amFtOXlnc2Zvb2s3&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a>
                                         <a class="btn p-0 text-primary me-0" href="https://www.linkedin.com/company/goyam-logistics/" target="_blank"><i class="fab fa-linkedin-in"></i></a>

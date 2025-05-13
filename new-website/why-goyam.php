@@ -172,17 +172,128 @@
         </div>
         <!-- Header End -->
 
+        <!-- About Start -->
+            <div class="container-fluid about py-5 bg-light">
+                <div class="container py-5">
+                    <div class="text-center mb-5">
+                        <h1 class="display-4 fw-bold text-primary">What Sets Goyam Logistics Apart?</h1>
+                        <p class="fs-5 text-muted">Your trusted partner for reliable, efficient, and end-to-end logistics solutions.</p>
+                    </div>
+
+                    <div class="row g-4">
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3">
+                                    <i class="fa fa-check text-primary fs-4"></i>
+                                </div>
+                                <div>
+                                    <h5 class="fw-semibold">End-to-End Logistics Expertise</h5>
+                                    <p class="text-muted">From air and sea freight to integrated supply chain services, we cover every aspect of your logistics journey.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3">
+                                    <i class="fa fa-check text-primary fs-4"></i>
+                                </div>
+                                <div>
+                                    <h5 class="fw-semibold">Trusted Across Industries</h5>
+                                    <p class="text-muted">We provide customized logistics solutions tailored to the unique demands of various industries.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3">
+                                    <i class="fa fa-check text-primary fs-4"></i>
+                                </div>
+                                <div>
+                                    <h5 class="fw-semibold">Global Network, Local Insight</h5>
+                                    <p class="text-muted">A strong international presence backed by local expertise for streamlined operations worldwide.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3">
+                                    <i class="fa fa-check text-primary fs-4"></i>
+                                </div>
+                                <div>
+                                    <h5 class="fw-semibold">Reliable & Efficient Delivery</h5>
+                                    <p class="text-muted">Secure and timely transportation across all logistics touchpoints—every time.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3">
+                                    <i class="fa fa-check text-primary fs-4"></i>
+                                </div>
+                                <div>
+                                    <h5 class="fw-semibold">Custom-Tailored Solutions</h5>
+                                    <p class="text-muted">Scalable logistics plans built around your specific needs and business goals.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3">
+                                    <i class="fa fa-check text-primary fs-4"></i>
+                                </div>
+                                <div>
+                                    <h5 class="fw-semibold">Transparent Operations</h5>
+                                    <p class="text-muted">Enjoy real-time tracking and open communication throughout the logistics process.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3">
+                                    <i class="fa fa-check text-primary fs-4"></i>
+                                </div>
+                                <div>
+                                    <h5 class="fw-semibold">Expert Team, Dedicated Support</h5>
+                                    <p class="text-muted">Experienced professionals manage every shipment with precision and care.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="d-flex">
+                                <div class="me-3">
+                                    <i class="fa fa-check text-primary fs-4"></i>
+                                </div>
+                                <div>
+                                    <h5 class="fw-semibold">Commitment to Excellence</h5>
+                                    <p class="text-muted">We uphold high standards in quality, safety, and client satisfaction in every service we provide.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="text-center mt-5">
+                        <a class="btn btn-primary btn-lg px-5 py-3" href="#">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+            <!-- About End -->
+
 
         <!-- About Start -->
-        <div class="container-fluid about py-5">
+        <!-- <div class="container-fluid about py-5">
             <div class="container py-5">
               
                         <div class="h-100">
                            
                             <h1 class="display-4 mb-4" style="text-align: center;">Why Choose GOYAM LOGISTICS?</h1>
                             
-                           <!-- <p class="mb-4">Welcome to GOYAM LOGISTICS, your premier choice for comprehensive shipping and freight forwarding solutions. As an India-based agency with a global reach, we pride ourselves on delivering unparalleled services in Air Freight, Sea Freight, Custom Clearance, Transportation, Import-Export Consultancy, and Project Cargo. At GOYAM LOGISTICS, we strive to set the benchmark for excellence in the international logistics industry.
-                            </p>-->
                             <div class="text-dark mb-4">
                                 <p class="fs-5" style="text-align: justify;"><span class="fa fa-check text-primary me-2">-End-to-End Logistics Expertise
 </span><br>From air and sea freight to integrated logistics and allied services, we cover every aspect of your supply chain.
@@ -212,186 +323,8 @@
                     
                 
             </div>
-        </div>
+        </div> -->
         <!-- About End -->
-
-
-        <!-- Banner Start -->
-        <!-- <div class="container-fluid banner py-5 wow zoomIn" data-wow-delay="0.2s">
-            <div class="banner-design-1"></div>
-            <div class="banner-design-2"></div>
-            <div class="container py-5">
-                <div class="row g-5">
-                    <div class="col-lg-8">
-                        <div class="">
-                            <h4 class="text-white">Contact With Us</h4>
-                            <h1 class="display-4 text-white mb-0">We provide professional electric services for our customer</h1>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="d-flex align-items-center justify-content-lg-end h-100">
-                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="#">EXPLORE MORE</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-         </div>-->
-        <!-- Banner End -->
-
-
-        <!-- FAQ Start -->
-        <!--<div class="container-fluid faq-section bg-light pb-5">
-            <div class="container pb-5">
-                <div class="row g-5">
-                    <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2s">
-                        <h4 class="text-primary">Some Important FAQ's</h4>
-                        <h1 class="display-4 mb-4">Common Frequently Asked Questions?</h1>
-                        <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet pariatur sapiente, modi perspiciatis earum ab inventore vitae consequatur tempore quibusdam?
-                        </p>
-                        <a class="btn btn-primary py-3 px-5" href="#">Have Any Questions</a>
-                    </div>
-                    <div class="col-xl-6 wow fadeInRight" data-wow-delay="0.4s">
-                        <div class="h-100">
-                            <div class="accordion" id="accordionExample">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            Q: How Do I Sing Up For Your Electricity Services?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseOne" class="accordion-collapse collapse show active" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            A: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingTwo">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            Q: What Types Of Electricity Plans Do You Offer?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            A: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingThree">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            Q: What Are Your Billing And Payment Options?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            A: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingFour">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                            Q: How Can I Track My Energy Usage With Your Services?
-                                        </button>
-                                    </h2>
-                                    <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                                        <div class="accordion-body">
-                                            A: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-         </div>-->
-        <!-- FAQ End -->
-
-
-        <!-- Team Start -->
-        <!-- <div class="container-fluid team py-5">
-            <div class="container py-5">
-                <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <h4 class="text-primary">Our Team</h4>
-                    <h1 class="display-4 mb-4">Electricity Service offerings</h1>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, deserunt provident ab voluptates rerum eaque eum magni autem atque in minus laboriosam corrupti deleniti voluptatibus rem reiciendis modi veniam animi?
-                    </p>
-                </div>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-3 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="img/team-1.jpg" class="img-fluid w-100" alt="">
-                                <div class="team-icon">
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-content bg-light text-center p-4">
-                                <h4>Shoaib Bashir</h4>
-                                <p class="mb-0">Profession</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="img/team-2.jpg" class="img-fluid w-100" alt="">
-                                <div class="team-icon">
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-content bg-light text-center p-4">
-                                <h4>Shoaib Bashir</h4>
-                                <p class="mb-0">Profession</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="img/team-3.jpg" class="img-fluid w-100" alt="">
-                                <div class="team-icon">
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-content bg-light text-center p-4">
-                                <h4>Shoaib Bashir</h4>
-                                <p class="mb-0">Profession</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3 wow fadeInUp" data-wow-delay="0.8s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="img/team-4.jpg" class="img-fluid w-100" alt="">
-                                <div class="team-icon">
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="btn btn-square btn-primary mb-2" href=""><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                            <div class="team-content bg-light text-center p-4">
-                                <h4>Shoaib Bashir</h4>
-                                <p class="mb-0">Profession</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-         </div>-->
-        <!-- Team End -->
 
         <!-- Footer Start -->
         <div class="container-fluid footer bg-dark py-5 wow fadeIn" data-wow-delay="0.2s">

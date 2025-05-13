@@ -211,7 +211,7 @@
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <img src="img/Customs-Clearing-Agent.png" class="img-fluid w-100" alt="">
+                                <img src="img/custom clearance.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
                                 <a href="custom-clearing-agent.php" class="h4 mb-0 p-4">Customs Clearing Agent</a>
@@ -230,7 +230,7 @@
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <img src="img/Project-logistics.png" class="img-fluid w-100" alt="">
+                                <img src="img/PROJECT LOGISTIC.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
                                 <a href="project-logistic.php" class="h4 mb-0 p-4">Project Cargo</a>
@@ -252,7 +252,7 @@
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <img src="img/consultancy.png" class="img-fluid w-100" alt="">
+                                <img src="img/consultancy.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
                                 <a href="consultancy.php" class="h4 mb-0 p-4">Consultancy</a>
