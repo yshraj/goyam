@@ -175,140 +175,37 @@
 
 
         <!-- Services Start -->
-        <div class="container-fluid service py-5">
+        <section class="service-section-split py-5">
             <div class="container py-5">
-                <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <h4 class="text-primary">Our Services</h4>
-                    <h1 class="display-4 mb-4">ALLIED SERVICES</h1>
-                    <p class="mb-0">At Goyam Logistics, we offer a range of Allied Services designed to complement and enhance our core logistics offerings. Our allied services ensure that your entire supply chain is optimized, with solutions that support smooth operations from start to finish. We are committed to providing integrated, end-to-end services that maximize efficiency and reduce operational complexity.
-                    </p>
-                     <h1 class="display-4 mb-4"> WHY CHOOSE US?</h1>
-                      <p class="mb-0">Comprehensive Solutions: Our allied services are designed to seamlessly integrate with your logistics needs, providing support in every step of your supply chain.</p>
-                      <p class="mb-0">Expert Guidance: With years of industry experience, we offer expert advice and hands-on assistance to ensure your operations run smoothly.</p>
-                      <p class="mb-0">Flexibility: Whether you need short-term or long-term support, we offer flexible services tailored to your specific requirements.</p>
-                      <p class="mb-0">Scalable Services: As your business grows, our allied services evolve to meet your changing needs, helping you scale without disruption.</p>
-                      
-                </div>
-                <!--<div class="row g-5 align-items-center">
-                    <div class="col-lg-3 wow fadeInLeft" data-wow-delay="0.2s">
-                        <ul class="nav">
-                            <li class="nav-item me-lg-0 mb-4">
-                                <a class="py-3 px-5 active" data-bs-toggle="pill" href="#ServiceTab-1">
-                                    <span>Commercial</span>
-                                </a>
-                            </li>
-                            <li class="nav-item me-lg-0 mb-4">
-                                <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-2">
-                                    <span>Residential</span>
-                                </a>
-                            </li>
-                            <li class="nav-item me-lg-0 mb-4 mb-lg-0">
-                                <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-3">
-                                    <span>Industrial</span>
-                                </a>
-                            </li>
+                <div class="row align-items-center">
+                    <!-- Left Column: Text Content -->
+                    <div class="col-lg-6 mb-2 mb-lg-0 wow fadeInLeft" data-wow-delay="0.2s">
+                        <h1 class="display-4 mb-2 active text-primary">Allied Services</h1>
+                        <p>
+                            At Goyam Logistics, we offer a wide range of Allied Services that complement our core logistics solutions. These services are designed to support your supply chain from start to finish — streamlining operations and enhancing overall efficiency.
+                        </p>
+
+                        <h5 class="mb-3 mt-4 text-primary">Why Choose Us?</h5>
+                        <ul class="list-unstyled">
+                            <li><i class="fa fa-check text-primary me-2"></i> <strong>Comprehensive Solutions:</strong> End-to-end services for complete logistics support.</li>
+                            <li><i class="fa fa-check text-primary me-2"></i> <strong>Expert Guidance:</strong> Industry professionals offering real-world insights and advice.</li>
+                            <li><i class="fa fa-check text-primary me-2"></i> <strong>Flexible Approach:</strong> Short-term and long-term support tailored to your needs.</li>
+                            <li><i class="fa fa-check text-primary me-2"></i> <strong>Scalable Services:</strong> Easily adapt as your business grows — no disruption, only progress.</li>
                         </ul>
+
+                        <a href="contact.php" class="btn btn-primary px-4 py-2 mt-1">Learn More</a>
                     </div>
-                    <div class="col-lg-9 wow fadeInRight" data-wow-delay="0.3s">
-                        <div class="tab-content">
-                            <div id="ServiceTab-1" class="tab-pane fade show p-0 active">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/commercial-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Brite Spark Services</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/commercial-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Energy Ease Packages</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/commercial-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electra Care Packages</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="ServiceTab-2" class="tab-pane fade show p-0">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/residential-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electrical Services</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/residential-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Security Systems</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/residential-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Air Conditioner</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="ServiceTab-3" class="tab-pane fade show p-0">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/industrial-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Factory Manufacture</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/industrial-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">General Electrical</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/industrial-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electrical Planing</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+
+                    <!-- Right Column: Image -->
+                    <div class="col-lg-6 text-center wow fadeInRight" data-wow-delay="0.4s">
+                        <img src="img/allied.jpg" alt="Allied Services"
+                            class="img-fluid rounded shadow"
+                            style="border: 3px solid #000;">
                     </div>
-                </div>-->
+                </div>
             </div>
-        </div>
+        </section>
+
         <!-- Services End -->
 
         <!-- FAQ Start -->

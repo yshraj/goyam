@@ -173,7 +173,7 @@
                             <div class="col-lg-7 animated fadeInLeft">
                                 <div class="text-sm-center text-md-start">
                                     <h4 class="text-white text-uppercase fw-bold mb-3">Your Trusted Logistics Partner</h4>
-                                    <h1 class="display-3 text-white mb-4">Experience the Speed of Precision Logistics</h1>
+                                    <h1 class="display-4 text-white mb-4">Experience the Speed of Precision Logistics</h1>
                                     <p class="mb-5 fs-5">From warehousing to last-mile delivery, we bring unmatched professionalism and reliability to your supply chain. Let us handle the complexity while you focus on growing your business. 
                                     </p>
                                     <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
@@ -195,7 +195,7 @@
                             <div class="col-lg-7 animated fadeInLeft">
                                 <div class="text-sm-center text-md-start">
                                     <h4 class="text-white text-uppercase fw-bold mb-3">Reliable Logistics Solutions</h4>
-                                    <h1 class="display-3 text-white mb-4">We go extra miles,<br>so you don't have to.</h1>
+                                    <h1 class="display-4 text-white mb-4">We go extra miles,<br>so you don't have to.</h1>
                                     <p class="mb-5 fs-5">We specialize in providing seamless, end-to-end logistics services designed to keep your business moving. Whether it's road, air, or sea freight, our expertise ensures your cargo arrives safely, on time, every time. 
                                     </p>
                                     <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">

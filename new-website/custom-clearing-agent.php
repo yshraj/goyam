@@ -174,136 +174,39 @@
 
 
         <!-- Services Start -->
-        <div class="container-fluid service py-5">
+        <section class="service-section-split py-5">
             <div class="container py-5">
-                <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <h4 class="text-primary">Our Services</h4>
-                    <h1 class="display-4 mb-4">CUSTOMS CLEARING AGENT</h1>
-                    <p class="mb-0">At Goyam Logistics, we specialize in providing seamless customs clearance services to ensure that your shipments pass through customs without delays or complications. As a trusted customs clearance agent, we take the complexity out of international shipping by handling all the regulatory requirements, paperwork, and compliance issues on your behalf.
-                    </p>
-                    <p class="mb-0">Our team is well-versed in the latest customs regulations and procedures across various regions. From import to export, we manage everything—from tariff classifications and duty calculations to compliance with local laws and regulations. We work closely with customs authorities to facilitate smooth, efficient clearances, reducing the risk of fines or shipment delays.</p>
-                    <p class="mb-0">Whether you're shipping goods via air, sea, or land, Goyam Logistics ensures that your cargo clears customs smoothly and reaches its destination on time. With our expertise, your business can focus on growth, knowing that your logistics and customs processes are in capable hands.</p>
+                <div class="row align-items-center">
+                    <!-- Left Column: Image -->
+                    <div class="col-lg-6 text-center wow fadeInLeft" data-wow-delay="0.2s">
+                        <img src="img/custom-clearance-servicepage.jpg" alt="Customs Clearing Agent Service" class="img-fluid rounded shadow" style="border: 3px solid #000;">
+                    </div>
+
+                    <!-- Right Column: Text -->
+                    <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.4s">
+                        <h1 class="display-5 mb-4 active text-primary">Customs Clearing Agent</h1>
+                        <p>
+                            At Goyam Logistics, we provide seamless customs clearance services to ensure your shipments pass through customs smoothly, without delays.
+                        </p>
+
+                        <p class="text-muted">
+                            As a trusted customs agent, we handle all the regulatory requirements, paperwork, and compliance issues, simplifying the shipping process.
+                        </p>
+
+                        <p>
+                            Our team stays updated on customs regulations worldwide, managing everything from tariff classifications to duty calculations, ensuring compliance at every step.
+                        </p>
+
+                        <p>
+                            Whether by air, sea, or land, we guarantee your cargo clears customs efficiently, allowing you to focus on growing your business while we handle the logistics.
+                        </p>
+
+                        <a href="contact.php" class="btn btn-primary mt-3 px-4 py-2">Get a Quote</a>
+                    </div>
                 </div>
-                <!--<div class="row g-5 align-items-center">
-                    <div class="col-lg-3 wow fadeInLeft" data-wow-delay="0.2s">
-                        <ul class="nav">
-                            <li class="nav-item me-lg-0 mb-4">
-                                <a class="py-3 px-5 active" data-bs-toggle="pill" href="#ServiceTab-1">
-                                    <span>Commercial</span>
-                                </a>
-                            </li>
-                            <li class="nav-item me-lg-0 mb-4">
-                                <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-2">
-                                    <span>Residential</span>
-                                </a>
-                            </li>
-                            <li class="nav-item me-lg-0 mb-4 mb-lg-0">
-                                <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-3">
-                                    <span>Industrial</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-9 wow fadeInRight" data-wow-delay="0.3s">
-                        <div class="tab-content">
-                            <div id="ServiceTab-1" class="tab-pane fade show p-0 active">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/commercial-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Brite Spark Services</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/commercial-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Energy Ease Packages</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/commercial-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electra Care Packages</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="ServiceTab-2" class="tab-pane fade show p-0">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/residential-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electrical Services</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/residential-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Security Systems</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/residential-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Air Conditioner</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="ServiceTab-3" class="tab-pane fade show p-0">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/industrial-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Factory Manufacture</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/industrial-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">General Electrical</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/industrial-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electrical Planing</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
             </div>
-        </div>
+        </section>
+
         <!-- Services End -->
 
         <!-- FAQ Start -->

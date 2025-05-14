@@ -175,142 +175,45 @@
 
 
         <!-- Services Start -->
-        <div class="container-fluid service py-5">
-            <div class="container py-5">
-                <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <h4 class="text-primary">Our Services</h4>
-                    <h1 class="display-4 mb-4">PROJECT LOGISTIC</h1>
-                    <p class="mb-0">At Goyam Logistics, we specialize in handling Project Cargo – the transportation of large, heavy, or complex shipments that require customized logistics solutions. Whether it’s oversized machinery, industrial equipment, or large infrastructure components, we provide a tailored approach to ensure that your cargo is delivered safely and efficiently, no matter the challenges involved.
-                    </p>
-                    <p class="mb-0">Our Project Cargo services are designed to support businesses in industries such as construction, energy, mining, and manufacturing. From initial planning and route survey to loading, transportation, and final delivery, we manage every aspect of your project’s logistics.
-                    </p>
-                    <h1 class="display-4 mb-4">GOYAM LOGISTICS OFFERS</h1>
-                     <p class="mb-0">Tailored Solutions: We create a logistics plan that fits your cargo’s specific needs, considering size, weight, and destination.</p>
-                      <p class="mb-0">Expert Handling: Our team ensures the safe handling and transport of sensitive and heavy cargo, including the necessary permits and equipment.</p>
-                       <p class="mb-0">On-time Delivery: We understand the importance of meeting deadlines in project management. Our team works diligently to ensure your cargo reaches its destination on schedule.</p>
-                        <p class="mb-0">No project is too big or too complex for Goyam Logistics. We offer both sea, air, and land transportation options, ensuring that every part of your project cargo journey is well-coordinated. With Goyam Logistics, your project is in safe hands, and we guarantee smooth and reliable transportation from start to finish.</p>
-                     
-                </div>
-                <!--<div class="row g-5 align-items-center">
-                    <div class="col-lg-3 wow fadeInLeft" data-wow-delay="0.2s">
-                        <ul class="nav">
-                            <li class="nav-item me-lg-0 mb-4">
-                                <a class="py-3 px-5 active" data-bs-toggle="pill" href="#ServiceTab-1">
-                                    <span>Commercial</span>
-                                </a>
-                            </li>
-                            <li class="nav-item me-lg-0 mb-4">
-                                <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-2">
-                                    <span>Residential</span>
-                                </a>
-                            </li>
-                            <li class="nav-item me-lg-0 mb-4 mb-lg-0">
-                                <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-3">
-                                    <span>Industrial</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-9 wow fadeInRight" data-wow-delay="0.3s">
-                        <div class="tab-content">
-                            <div id="ServiceTab-1" class="tab-pane fade show p-0 active">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/commercial-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Brite Spark Services</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/commercial-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Energy Ease Packages</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/commercial-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electra Care Packages</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="ServiceTab-2" class="tab-pane fade show p-0">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/residential-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electrical Services</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/residential-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Security Systems</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/residential-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Air Conditioner</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="ServiceTab-3" class="tab-pane fade show p-0">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/industrial-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Factory Manufacture</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/industrial-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">General Electrical</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/industrial-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electrical Planing</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>-->
+<section class="service-section-split py-5">
+    <div class="container py-5">
+        <div class="row align-items-center">
+            <!-- Left Column: Text (First Half) -->
+            <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2s">
+                <h1 class="display-4 mb-4 active text-primary">Project Logistics</h1>
+                <p class="mb-4">
+                    At Goyam Logistics, we excel in Project Cargo — managing the transport of heavy, oversized, or uniquely complex shipments that require specialized handling. From massive machinery to large infrastructure components, we tailor each solution to ensure safe, efficient, and compliant delivery.
+                </p>
+                <p class="mb-6 text-muted">
+                    Our end-to-end services support industries like construction, energy, mining, and manufacturing. We handle everything from route surveys and planning to loading, transport, and final delivery — ensuring your project stays on track at every stage.
+                </p>
+            </div>
+
+            <!-- Right Column: Image (First Half) -->
+            <div class="col-lg-6 text-center wow fadeInRight" data-wow-delay="0.4s">
+                <img src="img/PROJECT-LOGISTIC-1.jpg" alt="Project Logistics" class="img-fluid rounded shadow" style="border: 3px solid #000;">
             </div>
         </div>
+
+        <!-- Second Half: Reverse Image & Text -->
+        <div class="row align-items-center mt-5">
+            <!-- Left Column: Image (Second Half) -->
+            <div class="col-lg-6 text-center wow fadeInLeft" data-wow-delay="0.2s">
+                <img src="img/PROJECT-LOGISTIC-01.jpg" alt="Project Logistics" class="img-fluid rounded shadow" style="border: 3px solid #000;">
+            </div>
+
+            <!-- Right Column: Text (Second Half) -->
+            <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.4s">
+                <h3 class="display-6 mb-4 active text-primary">What Goyam Logistics offers?</h3>
+                <p class="mb-0"><strong>Tailored Solutions:</strong> We design logistics plans around your cargo’s size, weight, and destination — no one-size-fits-all.</p>
+                <p class="mb-0"><strong>Expert Handling:</strong> From permits to equipment, our team safely manages even the most sensitive or oversized shipments.</p>
+                <p class="mb-0"><strong>On-Time Delivery:</strong> We meet your project deadlines with precision planning and reliable execution.</p>
+                <p class="mb-0"><strong>Multi-Mode Transport:</strong> Sea, air, or land — we coordinate every detail to move your project cargo seamlessly from start to finish.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
         <!-- Services End -->
 
         <!-- FAQ Start -->

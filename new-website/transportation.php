@@ -175,141 +175,38 @@
 
 
         <!-- Services Start -->
-        <div class="container-fluid service py-5">
-            <div class="container py-5">
-                <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <h4 class="text-primary">Our Services</h4>
-                    <h1 class="display-4 mb-4">TRANSPORTATION</h1>
-                    <p class="mb-0">At Goyam Logistics, we offer fast, reliable, and cost-effective transportation services tailored to meet your business needs. Whether you need local or long-distance shipping, our expert team ensures timely deliveries with real-time tracking and competitive pricing.
-                    </p>
-                    <h1 class="display-4 mb-4">Why Choose Us?</h1>
-                    <p class="mb-0">On-Time Delivery: We ensure your goods arrive on schedule, every time.</p>
-                    <p class="mb-0">Wide Coverage: Serving multiple regions, we expand your reach seamlessly.</p>
-                    <p class="mb-0">Custom Solutions: From full to partial loads, we offer flexible transportation options.</p>
-                    <p class="mb-0">Experienced Team: Our skilled drivers handle your goods with care and professionalism.</p>
-                    <p class="mb-0">Eco-Friendly: We focus on sustainable, environmentally conscious transportation methods.</p>
-                    <p class="mb-0">Trust Goyam Logistics to streamline your logistics. Get in touch today!</p>
-                </div>
-                <!--<div class="row g-5 align-items-center">
-                    <div class="col-lg-3 wow fadeInLeft" data-wow-delay="0.2s">
-                        <ul class="nav">
-                            <li class="nav-item me-lg-0 mb-4">
-                                <a class="py-3 px-5 active" data-bs-toggle="pill" href="#ServiceTab-1">
-                                    <span>Commercial</span>
-                                </a>
-                            </li>
-                            <li class="nav-item me-lg-0 mb-4">
-                                <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-2">
-                                    <span>Residential</span>
-                                </a>
-                            </li>
-                            <li class="nav-item me-lg-0 mb-4 mb-lg-0">
-                                <a class="py-3 px-5" data-bs-toggle="pill" href="#ServiceTab-3">
-                                    <span>Industrial</span>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-9 wow fadeInRight" data-wow-delay="0.3s">
-                        <div class="tab-content">
-                            <div id="ServiceTab-1" class="tab-pane fade show p-0 active">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/commercial-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Brite Spark Services</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/commercial-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Energy Ease Packages</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/commercial-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electra Care Packages</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="ServiceTab-2" class="tab-pane fade show p-0">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/residential-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electrical Services</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/residential-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Security Systems</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/residential-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Air Conditioner</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="ServiceTab-3" class="tab-pane fade show p-0">
-                                <div class="service-carousel owl-carousel">
-                                    <div class="service-item">
-                                        <img src="img/industrial-1.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Factory Manufacture</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/industrial-2.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">General Electrical</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                    <div class="service-item">
-                                        <img src="img/industrial-3.jpg" class="img-fluid w-100" alt="">
-                                        <div class="border border-top-0 p-4">
-                                            <h4 class="mb-3">Electrical Planing</h4>
-                                            <p class="mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem, beatae ex. Id esse autem ratione vero cupiditate tempora recusandae est!
-                                            </p>
-                                            <a class="btn btn-primary py-2 px-4" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+            <section class="service-section-split py-5">
+                <div class="container py-5">
+                    <div class="row align-items-center">
+                        <!-- Left Column: Image -->
+                        <div class="col-lg-6 mb-4 mb-lg-0 wow fadeInLeft" data-wow-delay="0.2s">
+                            <img src="img/transportation truck.jpg" alt="Transportation Service"
+                                class="img-fluid rounded shadow"
+                                style="border: 3px solid #000;">
+                        </div>
+
+                        <!-- Right Column: Text Content -->
+                        <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.4s">
+                            <h1 class="display-4 mb-2 active text-primary">Transportation</h1>
+                            <p>
+                                Goyam Logistics delivers fast, reliable, and cost-efficient transportation solutions — locally and nationwide. Whether full or partial loads, we ensure timely deliveries, real-time tracking, and professional care every step of the way.
+                            </p>
+
+                            <h5 class="mb-2 mt-3 text-primary">Why Choose Us?</h5>
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-check text-primary me-2"></i> <strong>On-Time Delivery:</strong> Reliable schedules for every shipment.</li>
+                                <li><i class="fa fa-check text-primary me-2"></i> <strong>Wide Coverage:</strong> Serving diverse regions across India and beyond.</li>
+                                <li><i class="fa fa-check text-primary me-2"></i> <strong>Flexible Solutions:</strong> Custom transport for every load type and size.</li>
+                                <li><i class="fa fa-check text-primary me-2"></i> <strong>Skilled Team:</strong> Professional drivers and logistics experts.</li>
+                                <li><i class="fa fa-check text-primary me-2"></i> <strong>Eco-Conscious:</strong> Supporting sustainable and responsible transport practices.</li>
+                            </ul>
+
+                            <a href="contact.php" class="btn btn-primary px-4 py-2 mt-2">Get in Touch</a>
                         </div>
                     </div>
-                </div>-->
-            </div>
-        </div>
+                </div>
+            </section>
+
         <!-- Services End -->
 
         <!-- FAQ Start -->
