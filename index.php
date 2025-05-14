@@ -783,7 +783,7 @@
             </div> -->
             <div class="row footer-links">
                 <div class="col-12 col-md-auto order-md-2">
-                    <a href="mailto:rishabh@goyam.net.in">rishabh@goyam.net.in</a>
+                    <a href="https://mail.google.com/mail/?view=cm&to=rishabh@goyam.net.in" target="_blank">rishabh@goyam.net.in</a>
                       <!--  <ul class="other-links reset">
                                     <li class="link"></li>
                                    <!-- <li class="link"><a href="en/why-goyam/index.php" title="WHYGOYAM">WHY GOYAM</a></li>

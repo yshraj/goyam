@@ -280,7 +280,7 @@ Ahmedabad – 380015 INDIA</p>
                             <div class="symbol-text-row"><span class="col-auto icons icons-sm"><img src="../../assets/img/icon-fax.svg" alt="fax" /></span><span class="col">+91 8849787195</span></div>
                             <div class="symbol-text-row"><span class="col-auto icons icons-sm"><img src="../../assets/img/icon-fax.svg" alt="fax" /></span><span class="col">+91 9978407502</span></div>
                             <div class="symbol-text-row email"><span class="col-auto icons icons-sm"><img src="../../assets/img/icon-email.svg" alt="email" /></span>
-                            <a href="mailto:rishabh@goyam.net.in" target="_blank" rel="noopener noreferrer" style="padding: 0 0 0 16px;">rishabh@goyam.net.in</a></div>
+                            <a href="https://mail.google.com/mail/?view=cm&to=rishabh@goyam.net.in" target="_blank" target="_blank" rel="noopener noreferrer" style="padding: 0 0 0 16px;">rishabh@goyam.net.in</a></div>
         </div>
         <div class="right-panel">
             <div class="inner-pannel">
@@ -789,7 +789,7 @@ Ahmedabad – 380015 INDIA</p>
             <!-- <div class="row justify-content-end">
             </div> -->
             <div class="row footer-links">
-                <a href="mailto:rishabh@goyam.net.in">rishabh@goyam.net.in</a>
+                <a href="https://mail.google.com/mail/?view=cm&to=rishabh@goyam.net.in" target="_blank">rishabh@goyam.net.in</a>
                 <div class="col-12 col-md-auto order-md-2">
                        <!-- <ul class="other-links reset">
                                     <li class="link"><a href="../../../en/about-us/index.php" title="ABOUT US">ABOUT US</a></li>

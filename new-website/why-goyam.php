@@ -57,7 +57,7 @@
                                         <a href="#" class="text-muted small"><i class="fas fa-map-marker-alt text-primary me-2"></i>Find A Location</a>
                                     </div>
                                     <div class="ps-3">
-                                        <a href="mailto:rishabh@goyam.net.in" class="text-muted small"><i class="fas fa-envelope text-primary me-2"></i>rishabh@goyam.net.in</a>
+                                        <a href="https://mail.google.com/mail/?view=cm&to=rishabh@goyam.net.in" target="_blank" class="text-muted small"><i class="fas fa-envelope text-primary me-2"></i>rishabh@goyam.net.in</a>
                                     </div>
                                 </div>
                             </div>
@@ -279,7 +279,7 @@
                     </div>
 
                     <div class="text-center mt-5">
-                        <a class="btn btn-primary btn-lg px-5 py-3" href="#">Contact Us</a>
+                        <a class="btn btn-primary btn-lg px-5 py-3" href="contact.php">Contact Us</a>
                     </div>
                 </div>
             </div>

@@ -406,7 +406,7 @@
             <!-- <div class="row justify-content-end">
             </div> -->
             <div class="row footer-links">
-                <a href="mailto:rishabh@goyam.net.in">rishabh@goyam.net.in</a>
+                <a href="https://mail.google.com/mail/?view=cm&to=rishabh@goyam.net.in" target="_blank">rishabh@goyam.net.in</a>
                 <div class="col-12 col-md-auto order-md-2">
                        <!-- <ul class="other-links reset">
                                     <li class="link"><a href="../../../en/about-us/index.php" title="ABOUT US">ABOUT US</a></li>

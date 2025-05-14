@@ -57,7 +57,7 @@
                                         <a href="#" class="text-muted small"><i class="fas fa-map-marker-alt text-primary me-2"></i>Find A Location</a>
                                     </div>
                                     <div class="ps-3">
-                                        <a href="mailto:rishabh@goyam.net.in" class="text-muted small"><i class="fas fa-envelope text-primary me-2"></i>rishabh@goyam.net.in</a>
+                                        <a href="https://mail.google.com/mail/?view=cm&to=rishabh@goyam.net.in" target="_blank" class="text-muted small"><i class="fas fa-envelope text-primary me-2"></i>rishabh@goyam.net.in</a>
                                     </div>
                                 </div>
                             </div>
@@ -433,7 +433,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="d-flex align-items-center justify-content-lg-end h-100">
-                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="#">CALL NOW</a>
+                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="https://api.whatsapp.com/send?phone=918849787195">CALL NOW</a>
                         </div>
                     </div>
                 </div>
