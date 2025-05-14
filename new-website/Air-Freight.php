@@ -180,7 +180,7 @@
                 <div class="row align-items-center">
                     <!-- Left Column: Image -->
                     <div class="col-lg-6 mb-4 mb-lg-0 wow fadeInLeft" data-wow-delay="0.2s">
-                        <img src="img/air-freight-sq.jpg" alt="Air Freight Service"
+                        <img src="img/Air-Freight-sq.jpg" alt="Air Freight Service"
                             class="img-fluid rounded shadow"
                             style="border: 3px solid #000;">
                     </div>
