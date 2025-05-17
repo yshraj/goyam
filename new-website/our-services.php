@@ -4,10 +4,10 @@
     <head>
         <meta charset="utf-8">
         <title>Goyam Logistics | Shipping to & from anywhere</title>
-        <meta name="description" content="Discover seamless logistics solutions with Goyam Logistics From efficient supply chain management to reliable freight forwarding, trust us to streamline your business operations. Contact us today!">
+        <meta name="description" content="Reliable global logistics and freight forwarding. Fast, secure shipping solutions—on time, every time.">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="" name="keywords">
-        <meta content="" name="description">
+        <meta name="keywords" content="logistics, freight forwarding, shipping, supply chain, transport, Goyam Logistics">
+        <link rel="icon" href="img/favicon-32x32.png" type="image/x-icon">
 
         <!-- Google Web Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
