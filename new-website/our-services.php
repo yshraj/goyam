@@ -495,7 +495,7 @@
                                 <div class="testimonial-inner p-4">
                                     <img src="img/testimonial-3.jpg" class="img-fluid" alt="">
                                     <div class="ms-4">
-                                        <h4>Prem Vyas </h4>
+                                        <h4>Nitin Manvar </h4>
                                         <p>Logistics manager</p>
                                         <div class="d-flex text-primary">
                                             <i class="fas fa-star"></i>

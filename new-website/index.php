@@ -787,7 +787,7 @@
                 <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
                    <!-- <h4 class="text-primary">Our Blog</h4>-->
                     <h1 class="display-4 mb-4">Best Goyam Logistics Services</h1>
-                    <p class="mb-0">International Freight | Custom Clearance  | DGFT Consultancy | Cargo Handling 
+                    <p class="mb-0">International Freight | Custom Clearance | Road Transportation | DGFT Consultancy 
                     </p>
                 </div>
                 <div class="row g-4">
@@ -805,7 +805,7 @@
                     <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="blog-item">
                             <div class="blog-img">
-                                <img src="img/custom clearance.jpg" class="img-fluid w-100" alt="">
+                                <img src="img/custom clearance-home.jpg" class="img-fluid w-100" alt="">
                             </div>
                             <div class="blog-heading ms-4">
                                 <a class="h4 mb-0 p-4">Custom Clearance </a>
@@ -813,6 +813,19 @@
                            
                         </div>
                     </div>
+
+                    <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.6s">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <img src="img/transportation truck-home.jpg" class="img-fluid w-100" alt="">
+                            </div>
+                            <div class="blog-heading ms-4">
+                                <a class="h4 mb-0 p-4">Road Transportation</a>
+                            </div>
+                          
+                        </div>
+                    </div>
+
                     <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="blog-item">
                             <div class="blog-img">
@@ -820,18 +833,6 @@
                             </div>
                             <div class="blog-heading ms-4">
                                 <a class="h4 mb-0 p-4">DGFT Consultancy</a>
-                            </div>
-                          
-                        </div>
-                    </div>
-                    
-                    <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="blog-item">
-                            <div class="blog-img">
-                                <img src="img/CARGO HANDLING.jpg" class="img-fluid w-100" alt="">
-                            </div>
-                            <div class="blog-heading ms-4">
-                                <a class="h4 mb-0 p-4">Cargo Handling</a>
                             </div>
                           
                         </div>
@@ -970,7 +971,7 @@
                                 <div class="testimonial-inner p-4">
                                     <!--<img src="img/testimonial-3.jpg" class="img-fluid" alt="">-->
                                     <div class="ms-4">
-                                        <h4>Manish Patel</h4>
+                                        <h4>Manish Joshi</h4>
                                         <p>Logistics manager</p>
                                         <div class="d-flex text-primary">
                                             <i class="fas fa-star"></i>
@@ -1006,8 +1007,7 @@
                                 </div>
                                 <div class="customer-text p-4">
                                     <p class="mb-0" style="color:white">We’ve used their air and ocean freight services for multiple shipments, and they’ve always delivered. The process was smooth, cost-effective, and stress-free. Fantastic service!"
-
-</p>
+                                </p>
                                 </div>
                             </div>
                             <div class="testimonial-item">
@@ -1016,7 +1016,7 @@
                                 <div class="testimonial-inner p-4">
                                   <!--  <img src="img/testimonial-3.jpg" class="img-fluid" alt="">-->
                                     <div class="ms-4">
-                                        <h4>Prem Vyas </h4>
+                                        <h4>Nitin Manvar </h4>
                                         <p>Logistics manager</p>
                                         <div class="d-flex text-primary">
                                             <i class="fas fa-star"></i>
