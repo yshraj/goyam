@@ -54,7 +54,7 @@
                             <div class="col-lg-8 text-center text-lg-center mb-lg-0">
                                 <div class="d-flex flex-wrap">
                                     <div class="border-end border-primary pe-3">
-                                        <a href="#" class="text-muted small"><i class="fas fa-map-marker-alt text-primary me-2"></i>Find A Location</a>
+                                        <a href="https://g.co/kgs/MX7HNvM" class="text-muted small"><i class="fas fa-map-marker-alt text-primary me-2"></i>Find A Location</a>
                                     </div>
                                     <div class="ps-3">
                                         <a href="https://mail.google.com/mail/?view=cm&to=rishabh@goyam.net.in" target="_blank" class="text-muted small"><i class="fas fa-envelope text-primary me-2"></i>rishabh@goyam.net.in</a>

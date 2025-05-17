@@ -291,7 +291,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="d-flex align-items-center justify-content-lg-end h-100">
-                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="https://api.whatsapp.com/send?phone=918849787195">CALL NOW</a>
+                            <a class="btn btn-primary py-3 px-4 px-md-5 ms-2" href="https://api.whatsapp.com/send?phone=918849787195">Chat With Us Now</a>
                         </div>
                     </div>
                 </div>
@@ -787,7 +787,7 @@
                 <div class="d-flex flex-column mx-auto text-center mb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
                    <!-- <h4 class="text-primary">Our Blog</h4>-->
                     <h1 class="display-4 mb-4">Best Goyam Logistics Services</h1>
-                    <p class="mb-0">International Freight | Custom Clearance  | DGFT Consultancy | Cargo Handling | Palletisation Fumigation 
+                    <p class="mb-0">International Freight | Custom Clearance  | DGFT Consultancy | Cargo Handling 
                     </p>
                 </div>
                 <div class="row g-4">
