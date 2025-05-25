@@ -223,17 +223,17 @@
                                 <div class="col-md-6">
                                     <a href="#" class="d-flex">
                                         <span class="fas fa-cogs fa-3x me-3"></span>
-                                        <h4 class="mb-0">Reliable Supply Chain Support</h4>
+                                        <h4 class="mb-0">Seamless Freight Forwarding Solutions</h4>
                                     </a>
                                 </div>
                                 <div class="col-md-6">
                                     <a href="#" class="d-flex">
                                         <span class="fas fa-truck-loading fa-3x me-3"></span>
-                                        <h4 class="mb-0">Comprehensive Logistics Services</h4>
+                                        <h4 class="mb-0">Efficient <br>Customs Clearance</h4>
                                     </a>
                                 </div>
                             </div>
-                            <p style="font-size: large;" class="mb-4">Goyam specializes in the transportation, warehousing, and distribution of goods. It plays a crucial role in supply chain management, ensuring that products move efficiently from manufacturers to consumers or businesses.
+                            <p style="font-size: large;" class="mb-4">Goyam specializes in forwarding, customs clearance, and transportation services. We play a vital role in supply chain management, ensuring the efficient movement of products from manufacturers to businesses or consumers. With a comprehensive suite of logistics solutions, Goyam is committed to delivering reliable, timely, and cost-effective results.
                             </p>
                            <!-- <p>Freight Transportation</p>
                              <p>Warehousing & Storage</p>
